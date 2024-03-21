@@ -1,0 +1,40 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment configuration
+.env
+
+# Local development configuration
+config.py
+
+# Database files
+*.db
+
+# Uploaded files (if not in git repository)
+/static/uploads/
+
+# Compiled Python bytecode
+*.pyc
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+
+# Dependency directories
+env/

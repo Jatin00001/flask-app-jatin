@@ -1,0 +1,28 @@
+{
+    "params":
+    {
+       "local_server":"True",
+       "local_uri": "mysql://root:@localhost/codingblog-flask" ,
+       "production_uri": "mysql://root:@localhost/codingblog-flask",
+       "fb_url": "https://facebook.com",
+        "github": "https://github.com/Jatin00001",
+        "linkedin":"https://www.linkedin.com/in/jatin-chaudhary-70262521b/",
+        "twitter":"https://twitter.com/Jatin01110",
+        "blog-name":"Jatin_Tech",
+        "subhead":"Latest Tech News",
+        "no_of_posts": 3,
+        "user_name":"jatin@gmail.com",
+        "user_password": "jatin",
+        "about_text": "Meet Jatin, a passionate software developer with a knack for innovation and problem-solving. Holding a degree in Electronic and Communication Engineering, Jatin's journey into the realm of coding and programming began with a curiosity to explore the vast possibilities within the field. Armed with a diverse skill set, Jatin is proficient in a multitude of programming languages, including C++, Python, Java, and JavaScript. Moreover, Jatin has honed their expertise in web development frameworks such as Flask and ReactJS, as well as mastering essential technologies like HTML, CSS, and MySQL. With adeptness in tools such as Git version control and Visual Studio Code, Jatin ensures seamless collaboration and efficiency in software projects. Jatin's academic journey culminated in their graduation from [Your University] in [Year], reflecting their commitment to excellence and a strong analytical mindset. These skills seamlessly translate into their software development endeavors, where Jatin tackles challenges with precision and creativity. Motivated by a relentless thirst for knowledge and a drive to excel, Jatin continuously seeks opportunities to expand their skill set and stay updated with the latest advancements in the tech industry. With a vision to revolutionize and create impactful solutions, Jatin is eager to contribute significantly as a software developer. Employers seeking a dedicated and skilled software developer like Jatin are encouraged to reach out. Let's collaborate and embark on a journey to redefine the boundaries of technology, unlocking endless possibilities together. Contact Jatin today to explore how their expertise can elevate your projects and goals.",
+        "uploader_location": "E:\\Flask\\static\\assets\\img"
+       
+    },
+    "sociallinks":
+    {
+        "fb_url": "https://facebook.com",
+        "github": "https://github.com/Jatin00001",
+        "linkedin":"https://www.linkedin.com/in/jatin-chaudhary-70262521b/",
+        "twitter":"https://twitter.com/Jatin01110",
+        "blog-name":"Jatin_Tech"
+    }
+}
